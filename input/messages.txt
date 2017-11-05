@@ -1,0 +1,11 @@
+id	timestamp	node_id	original_message_id	text
+1	1483817343266	1	-	Use this dialog to configure encoding options for a project and for the entire IDE
+2	1483812312266	1	-	take precedence over the
+3	1483817733263	2	1	Use this dialog to configure encoding options for a project and for the entire IDE
+4	1481773234264	2	-	file overrides the string
+5	1423844233263	3	-	drop-down list to define encod
+6	1483817233264	3	-	Select this option to show in properties
+7	1483817633266	4	4	file overrides the string
+8	1483817733267	4	-	Use this page to customize the font type
+9	1483817433258	5	-	color of any VCS component
+10	1483834333269	5	7	file overrides the string

@@ -1,0 +1,6 @@
+id	first_name	last_name	age	country
+1	Abbas	Mohammadi	34	Iran
+2	Jack Kilby	28	UK
+3	Milad	Vadoodparast	25	Pakistan
+4	Ali	Alavi	84	Iraq
+5	Zhi	Xhang	14	China
